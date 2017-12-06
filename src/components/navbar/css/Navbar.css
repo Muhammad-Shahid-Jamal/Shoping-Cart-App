@@ -1,0 +1,27 @@
+.Navbar .icon-bar{
+    width: 25px;
+    height: 3px;
+    background-color: #d3b703;
+    display: block;
+    margin: 5px;
+}
+.Navbar{
+    background-color: #d3b703;
+    padding: 5px;
+}
+.Navbar button{
+    background-color: white;
+    border: none;
+    border-radius: 3px;
+    margin-left: 16px;
+    margin-right: 16px;
+    margin-top: 3px;
+    vertical-align: middle;
+    margin-bottom: 5px;
+}
+.Navbar h3{
+    display: inline-block;
+    margin: 0;
+    vertical-align: middle;
+    color: white;
+}
