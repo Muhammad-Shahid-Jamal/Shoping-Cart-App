@@ -1,0 +1,21 @@
+.item .singleItem{
+    border-radius: 3px;
+    box-shadow: 0px 0px 2px grey;
+    padding: 10px;
+    margin-top: 25px;
+}
+.item .singleItem .item-img{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 238px;
+}
+.item .singleItem .price{
+    color:#b39606;
+}
+@media screen and (max-width:480px){
+    .item .singleItem{
+        box-shadow: none !important;
+        padding: 0px !important;
+    }
+}
